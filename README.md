@@ -12,7 +12,7 @@ From: https://help.github.com/articles/fork-a-repo
 2) Set up user and mail
 
 	git config user.name <user>
-	git config user.mail <email address>
+	git config user.email <email address>
 
 3) Example:
 
